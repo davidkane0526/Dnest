@@ -59,4 +59,11 @@
  - 软件内常用快捷键功能 计划添加
  - 优化启动位置保存等UI调整功能的实现
  
- 
+ ***
+ ### 致谢：
+ - PyQt5/PyQt 各种各样的PyQt测试和例子
+ > https://github.com/PyQt5/PyQt
+ - zhiyiYo/PyQt-Frameless-Window A cross-platform frameless window based on pyqt5, support Win32, X11, Wayland and macOS.
+ > https://github.com/zhiyiYo/PyQt-Frameless-Window#pyqt-frameless-window
+ - Zuzu-Typ/winput Capture and send keyboard and mouse input on Windows
+ > https://github.com/Zuzu-Typ/winput
