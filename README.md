@@ -15,7 +15,7 @@
  ## 以下是使用介绍：
  ### 基本功能：
  - **基本界面**：文件以路径索引形式暂存软件，不会造成文件丢失或生成文件缓存 （删除文件只是删除软件中的文件路径索引，不会删除原始文件）
-> ![UI](https://user-images.githubusercontent.com/23145087/192291148-6967299f-f507-47dd-bf46-9a3097a695b0.png)
+> ![Snipaste_2022-12-17_19-56-06](https://user-images.githubusercontent.com/23145087/208240645-b6d57cf3-c32c-46e3-b63a-8a9a3c9c81b5.jpg)
  - 程序没有任务栏图标，退出需要通过程序托盘 
 > <img width="90" alt="Snipaste_2022-08-12_20-14-33" src="https://user-images.githubusercontent.com/23145087/184351825-4e38f2ed-b2f6-4305-bee6-7af75886e0c0.png">
  - **推拽文件**：通过系统 API 判断执行拖拽时，软件会自动弹出窗口。所以不建议频繁退出软件，因为软件只有在拖拽时才会出现在屏幕里
