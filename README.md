@@ -66,8 +66,8 @@
  - ~~增加退出时默认记录当前位置和大小~~
  - ~~优化启动位置保存等UI调整功能的实现~~
  - 根据目录层级生成文件功能 计划添加
- - 快捷键唤醒界面功能 计划添加 （难点是常用的快捷键都被其他软件注册了，非常容易出现问题）
- - 软件内常用快捷键功能 计划添加
+ - ~~快捷键唤醒界面功能 计划添加 （难点是常用的快捷键都被其他软件注册了，非常容易出现问题）~~
+ - ~~软件内常用快捷键功能 计划添加~~
 
  
  ***
@@ -76,5 +76,3 @@
  > https://github.com/PyQt5/PyQt
  - zhiyiYo/PyQt-Frameless-Window A cross-platform frameless window based on pyqt5, support Win32, X11, Wayland and macOS.
  > https://github.com/zhiyiYo/PyQt-Frameless-Window#pyqt-frameless-window
- - Zuzu-Typ/winput Capture and send keyboard and mouse input on Windows
- > https://github.com/Zuzu-Typ/winput
